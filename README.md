@@ -1,2 +1,15 @@
 # init-legacy-extension-v2
-    Time tracking and analytics dashboard
+
+)
+
+## Setup
+
+```
+pip install -r requirements.txt
+```
+
+## Run
+
+```
+python main.py
+```
